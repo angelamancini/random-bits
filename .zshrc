@@ -80,5 +80,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-export ATLAS_TOKEN=pTrA06c1YNaFbQ.atlasv1.GIzWFVLJe05Ge9tARyqlRH0t5LkmhJKBZQf7yyC4IglVQXpH5EiXydWI7Cvf8kyAxF8
