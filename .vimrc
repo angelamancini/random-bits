@@ -24,7 +24,6 @@ set tabstop=2 shiftwidth=2
 " use spaces, not tabs
 set expandtab
 
-execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
